@@ -12,7 +12,7 @@ return [
     'controllerNamespace' => 'backend\controllers',
     'bootstrap' => ['log'],
     'modules' => [],
-    'homeUrl' => ' ',
+    'homeUrl' => '',
     'components' => [
         'request' => [
             'baseUrl' => '/admin',
